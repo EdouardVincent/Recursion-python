@@ -40,4 +40,3 @@ def division2(a, b) :
         return a
     else :
         return soustraction(division2(a,b), division2(a,p(b)))
-    
